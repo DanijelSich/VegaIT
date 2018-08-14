@@ -1,0 +1,5 @@
+C:\Users\sichd\Downloads\Vega-IT\2\KolekcijaKnjiga\KolekcijaKnjiga.Model\bin\Debug\KolekcijaKnjiga.Model.dll
+C:\Users\sichd\Downloads\Vega-IT\2\KolekcijaKnjiga\KolekcijaKnjiga.Model\bin\Debug\KolekcijaKnjiga.Model.pdb
+C:\Users\sichd\Downloads\Vega-IT\2\KolekcijaKnjiga\KolekcijaKnjiga.Model\obj\Debug\KolekcijaKnjiga.Model.csprojResolveAssemblyReference.cache
+C:\Users\sichd\Downloads\Vega-IT\2\KolekcijaKnjiga\KolekcijaKnjiga.Model\obj\Debug\KolekcijaKnjiga.Model.dll
+C:\Users\sichd\Downloads\Vega-IT\2\KolekcijaKnjiga\KolekcijaKnjiga.Model\obj\Debug\KolekcijaKnjiga.Model.pdb
